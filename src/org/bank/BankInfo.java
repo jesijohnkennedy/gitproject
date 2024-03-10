@@ -2,7 +2,7 @@ package org.bank;
 
 public class BankInfo {
 	private void fullName() {
-		System.out.println(" fullName is John kenendy "); 
+		System.out.println(" fullName is SANDRA GLADIA "); 
 }
  private void sortCode() {
 	System.out.println("sortCode is 12345");
@@ -13,7 +13,7 @@ public class BankInfo {
 System.out.println("accountNumber is 20482512582");
 	}
 	private void bankAddress() {
-	System.out.println("bankAddress is chennai");
+	System.out.println("bankAddress is CHENNAI");
 
 	}
 	public static void main(String[] args) {
